@@ -1,0 +1,328 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		07F9847A216D0DE5004665EC /* AlGoreWokeUpOneMorningWonderingView.h in Headers */ = {isa = PBXBuildFile; fileRef = 07F98479216D0DE5004665EC /* AlGoreWokeUpOneMorningWonderingView.h */; };
+		07F9847C216D0DE5004665EC /* AlGoreWokeUpOneMorningWonderingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F9847B216D0DE5004665EC /* AlGoreWokeUpOneMorningWonderingView.m */; };
+		07F98485216D0E3F004665EC /* Earth-1.qtz in Resources */ = {isa = PBXBuildFile; fileRef = 07F98483216D0E3E004665EC /* Earth-1.qtz */; };
+		07F98486216D0E3F004665EC /* earth_lights_lrg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 07F98484216D0E3F004665EC /* earth_lights_lrg.jpg */; };
+		07F9848A216D0EEF004665EC /* thumbnail@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 07F98487216D0EEF004665EC /* thumbnail@2x.png */; };
+		07F9848B216D0EEF004665EC /* icon_512x512.png in Resources */ = {isa = PBXBuildFile; fileRef = 07F98488216D0EEF004665EC /* icon_512x512.png */; };
+		07F9848C216D0EEF004665EC /* thumbnail.png in Resources */ = {isa = PBXBuildFile; fileRef = 07F98489216D0EEF004665EC /* thumbnail.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		07F98476216D0DE5004665EC /* Al Gore Woke Up One Morning Wondering.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Al Gore Woke Up One Morning Wondering.saver"; sourceTree = BUILT_PRODUCTS_DIR; };
+		07F98479216D0DE5004665EC /* AlGoreWokeUpOneMorningWonderingView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AlGoreWokeUpOneMorningWonderingView.h; sourceTree = "<group>"; };
+		07F9847B216D0DE5004665EC /* AlGoreWokeUpOneMorningWonderingView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlGoreWokeUpOneMorningWonderingView.m; sourceTree = "<group>"; };
+		07F9847D216D0DE5004665EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07F98483216D0E3E004665EC /* Earth-1.qtz */ = {isa = PBXFileReference; lastKnownFileType = "video.quartz-composer"; path = "Earth-1.qtz"; sourceTree = "<group>"; };
+		07F98484216D0E3F004665EC /* earth_lights_lrg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = earth_lights_lrg.jpg; sourceTree = "<group>"; };
+		07F98487216D0EEF004665EC /* thumbnail@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail@2x.png"; sourceTree = "<group>"; };
+		07F98488216D0EEF004665EC /* icon_512x512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_512x512.png; sourceTree = "<group>"; };
+		07F98489216D0EEF004665EC /* thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbnail.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		07F98473216D0DE5004665EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		07F9846C216D0DE5004665EC = {
+			isa = PBXGroup;
+			children = (
+				07F98478216D0DE5004665EC /* AlGoreWokeUpOneMorningWondering */,
+				07F98477216D0DE5004665EC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		07F98477216D0DE5004665EC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				07F98476216D0DE5004665EC /* Al Gore Woke Up One Morning Wondering.saver */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		07F98478216D0DE5004665EC /* AlGoreWokeUpOneMorningWondering */ = {
+			isa = PBXGroup;
+			children = (
+				07F98479216D0DE5004665EC /* AlGoreWokeUpOneMorningWonderingView.h */,
+				07F9847B216D0DE5004665EC /* AlGoreWokeUpOneMorningWonderingView.m */,
+				07F98484216D0E3F004665EC /* earth_lights_lrg.jpg */,
+				07F98483216D0E3E004665EC /* Earth-1.qtz */,
+				07F98488216D0EEF004665EC /* icon_512x512.png */,
+				07F98489216D0EEF004665EC /* thumbnail.png */,
+				07F98487216D0EEF004665EC /* thumbnail@2x.png */,
+				07F9847D216D0DE5004665EC /* Info.plist */,
+			);
+			path = AlGoreWokeUpOneMorningWondering;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		07F98471216D0DE5004665EC /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07F9847A216D0DE5004665EC /* AlGoreWokeUpOneMorningWonderingView.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		07F98475216D0DE5004665EC /* Al Gore Woke Up One Morning Wondering */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 07F98480216D0DE5004665EC /* Build configuration list for PBXNativeTarget "Al Gore Woke Up One Morning Wondering" */;
+			buildPhases = (
+				07F98471216D0DE5004665EC /* Headers */,
+				07F98472216D0DE5004665EC /* Sources */,
+				07F98473216D0DE5004665EC /* Frameworks */,
+				07F98474216D0DE5004665EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Al Gore Woke Up One Morning Wondering";
+			productName = AlGoreWokeUpOneMorningWondering;
+			productReference = 07F98476216D0DE5004665EC /* Al Gore Woke Up One Morning Wondering.saver */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		07F9846D216D0DE5004665EC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1000;
+				ORGANIZATIONNAME = "O-R-G";
+				TargetAttributes = {
+					07F98475216D0DE5004665EC = {
+						CreatedOnToolsVersion = 10.0;
+					};
+				};
+			};
+			buildConfigurationList = 07F98470216D0DE5004665EC /* Build configuration list for PBXProject "AlGoreWokeUpOneMorningWondering" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 07F9846C216D0DE5004665EC;
+			productRefGroup = 07F98477216D0DE5004665EC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				07F98475216D0DE5004665EC /* Al Gore Woke Up One Morning Wondering */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		07F98474216D0DE5004665EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07F98485216D0E3F004665EC /* Earth-1.qtz in Resources */,
+				07F98486216D0E3F004665EC /* earth_lights_lrg.jpg in Resources */,
+				07F9848A216D0EEF004665EC /* thumbnail@2x.png in Resources */,
+				07F9848B216D0EEF004665EC /* icon_512x512.png in Resources */,
+				07F9848C216D0EEF004665EC /* thumbnail.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		07F98472216D0DE5004665EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07F9847C216D0DE5004665EC /* AlGoreWokeUpOneMorningWonderingView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		07F9847E216D0DE5004665EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		07F9847F216D0DE5004665EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		07F98481216D0DE5004665EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 2T5W462SEL;
+				INFOPLIST_FILE = AlGoreWokeUpOneMorningWondering/Info.plist;
+				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				PRODUCT_BUNDLE_IDENTIFIER = "o-r-g.AlGoreWokeUpOneMorningWondering";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = saver;
+			};
+			name = Debug;
+		};
+		07F98482216D0DE5004665EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 2T5W462SEL;
+				INFOPLIST_FILE = AlGoreWokeUpOneMorningWondering/Info.plist;
+				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				PRODUCT_BUNDLE_IDENTIFIER = "o-r-g.AlGoreWokeUpOneMorningWondering";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = saver;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		07F98470216D0DE5004665EC /* Build configuration list for PBXProject "AlGoreWokeUpOneMorningWondering" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07F9847E216D0DE5004665EC /* Debug */,
+				07F9847F216D0DE5004665EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		07F98480216D0DE5004665EC /* Build configuration list for PBXNativeTarget "Al Gore Woke Up One Morning Wondering" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07F98481216D0DE5004665EC /* Debug */,
+				07F98482216D0DE5004665EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 07F9846D216D0DE5004665EC /* Project object */;
+}
